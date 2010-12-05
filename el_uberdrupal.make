@@ -1,7 +1,7 @@
 core = 6.x
 api = 2
 
-includes[pressflow] = ../../Makefiles/el_pressflow.makei
+includes[pressflow] = ../Makefiles/el_pressflow.make
 
 projects[el_uberdrupal][type] = profile
 projects[el_uberdrupal][download][type] = git
